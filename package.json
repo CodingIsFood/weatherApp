@@ -2,6 +2,10 @@
   "name": "imagefinder-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.5.0",
+    "node": "v11.4.0"
+  },
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.2",
