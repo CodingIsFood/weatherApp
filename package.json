@@ -8,7 +8,7 @@
     "react-dom": "^16.8.2",
     "react-scripts": "2.1.5"
   },
-  "homepage": "https://codingisfood.github.io/weatherApp",
+  "homepage": "https://covenantolodo.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
