@@ -2,17 +2,13 @@
   "name": "imagefinder-app",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "6.5.0",
-    "node": "v11.4.0"
-  },
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-scripts": "2.1.5"
   },
-  "homepage": "https://multimims.com",
+  "homepage": "https://codingisfood.github.io/weatherApp",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
